@@ -2,6 +2,7 @@
     "name": "darkforest",
     "displayName": "DarkForest",
     "description": "Just a dark green theme",
+    "publisher": "ManuelRix",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.68.0"
@@ -9,6 +10,10 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "url": "https://github.com/ManuelRixDiscord/DarkForest/tree/main/darkforest",
+        "type": "url"
+    },
     "contributes": {
         "themes": [
             {
