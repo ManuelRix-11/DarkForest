@@ -2,7 +2,7 @@
 	"name": "DarkForest",
 	"colors": {
 		"editor.background": "#0a182e",
-		"editor.foreground": "#eeffff",
+		"editor.foreground": "#00ffc3",
 		"activityBarBadge.background": "#0a182e",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"activityBar.background": "#0a182e",
@@ -18,6 +18,9 @@
 		"button.border": "#07d6a6",
 		"sideBarSectionHeader.foreground": "#cbd5f6",
 		"sideBar.foreground": "#cbd5f6",
+		"extensionIcon.verifiedForeground": "#07d6a6",
+		"notificationCenterHeader.background": "#1e3862",
+		"notificationCenterHeader.foreground": "#cbd5f6",
 	},
 	"tokenColors": [
 		{
@@ -38,7 +41,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#60F6D3"
+				"foreground": "#00ffc36d"
 			}
 		},
 		{
@@ -68,7 +71,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#60F6D3"
+				"foreground": "#00c8fffe"
 			}
 		},
 		{
@@ -99,7 +102,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#d36166"
+				"foreground": "#ff6ecc"
 			}
 		},
 		{
@@ -112,7 +115,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#00ff62"
+				"foreground": "#00ff62c1"
 			}
 		},
 		{
