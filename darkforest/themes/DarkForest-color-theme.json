@@ -22,7 +22,8 @@
 		"notificationCenterHeader.background": "#1e3862",
 		"notificationCenterHeader.foreground": "#cbd5f6",
 		"statusBar.background": "#009e79",
-		"sideBarSectionHeader.background": "#122544"
+		"sideBarSectionHeader.background": "#122544",
+		"tab.inactiveBackground": "#113b8026"
 	},
 	"tokenColors": [
 		{
@@ -206,7 +207,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#6fff85"
 			}
 		},
 		{
@@ -276,7 +277,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#00ffff"
 			}
 		},
 		{
@@ -285,7 +286,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#00ffff"
 			}
 		},
 		{
