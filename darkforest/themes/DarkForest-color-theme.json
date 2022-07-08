@@ -21,6 +21,8 @@
 		"extensionIcon.verifiedForeground": "#07d6a6",
 		"notificationCenterHeader.background": "#1e3862",
 		"notificationCenterHeader.foreground": "#cbd5f6",
+		"statusBar.background": "#009e79",
+		"sideBarSectionHeader.background": "#122544"
 	},
 	"tokenColors": [
 		{
@@ -91,7 +93,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#ff6ecc"
+				"foreground": "#0064fa"
 			}
 		},
 		{
@@ -102,7 +104,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#ff6ecc"
+				"foreground": "#6ea8ff"
 			}
 		},
 		{
